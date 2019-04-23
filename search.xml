@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title></title>
+    <url>%2F2019%2F04%2F23%2Farduino%E6%B5%81%E6%B0%B4%E7%81%AF%E7%A8%8B%E5%BA%8F%2F</url>
+    <content type="text"><![CDATA[title: arduino流水灯程序date: 2019-04-23 23:27:08tags:程序介绍：控制6盏灯的亮灭 123456789101112131415161718192021222324252627282930void setup() &#123; for(int i=13;i&gt;=8;i--) pinMode(i,OUTPUT);&#125; int interval=100;void loop() &#123;:digitalWrite(13,HIGH);delay(interval);digitalWrite(13,LOW);digitalWrite(12,HIGH);delay(interval);digitalWrite(12,LOW);digitalWrite(11,HIGH);delay(interval);digitalWrite(11,LOW);digitalWrite(10,HIGH);delay(interval);digitalWrite(10,LOW);digitalWrite(9,HIGH);delay(interval);digitalWrite(9,LOW);digitalWrite(8,HIGH);delay(interval);digitalWrite(8,LOW);&#125;]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[中国史]]></title>
     <url>%2F2019%2F04%2F15%2F%E4%B8%AD%E5%9B%BD%E5%8F%B2%2F</url>
     <content type="text"><![CDATA[中国史简记一、西周​ 没啥好说的，前期勇猛，后期乏力，首都镐京（西安），最后一个天子为周幽王（烽火戏诸侯），后被西北蛮族犬戎打败 二、东周 历时六百年，西周从镐京搬到洛邑（洛阳）为东周 春秋霸主齐国：​ （齐桓公：公子小白）尊王攘夷 晋国:​ 仅次于齐国，经营几代，老谋深算，后取代齐国霸主地位（晋文公：公子重耳）晋国于晋文公上位4年后打败楚国，称霸群雄 楚国：来自现代湖北大山，原为南部巨型部落，后自立为王，与晋国专对（楚庄王：曾问鼎中原） 吴国：​ 与晋国结盟，称连吴制楚 秦国：​ 接手西周曾经地方，替东周对抗犬戎，因护送周王室东迁而获封赏，有了诸侯的编制，在晋文公称霸之前，与晋国交好，有秦晋之好的美话（秦穆公） 越国：​ 由越王勾践建立，建国后与吴王阖闾起冲突，吴越春秋开始 郑国：​ 没啥存在感的小国，曾在齐桓公发迹之前与周天子战过，曾射伤过周天子，煊赫一时，后迅速没落 宋国：​ 小国 鲁国：​ 文化强国，写过《春秋》，号称儒家数据库 春秋到这里就结束了 想了解春秋五霸，点击这里]]></content>
